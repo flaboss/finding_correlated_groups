@@ -59,6 +59,7 @@ This python module contains a class that can be used to create similar groups ba
     - matplotlib.pyplot
 
 ** The method plot_best_correlated_groups(self, figsize=(18,4))**
+
     This method plots the groups with the highest correlation.
     For more details:
     >> from testgrps import CorrelTestingGroups as ctg
