@@ -5,6 +5,7 @@ This python module contains a class that can be used to create similar groups ba
 ## Dcomentation:
 
 **The class CorrelTestingGroups**
+
     Creates an object containing comparable groups based on correlation.
     It contains the attribute ".groups" which is a list of lists containing:
     - The members of the first group
@@ -58,7 +59,7 @@ This python module contains a class that can be used to create similar groups ba
     - numpy
     - matplotlib.pyplot
 
-** The method plot_best_correlated_groups(self, figsize=(18,4))**
+**The method plot_best_correlated_groups(self, figsize=(18,4))**
 
     This method plots the groups with the highest correlation.
     For more details:
